@@ -41,12 +41,12 @@ A fun and interactive console-based number guessing game written in C#. Test you
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/guessing-game.git
+   git clone https://github.com/NadaAhmed159/Guessing-Game-System.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd guessing-game
+   cd Guessing-Game-System
    ```
 
 3. **Build and run**:
