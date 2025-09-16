@@ -1,0 +1,14 @@
+D:\DEPIc#PROJ\DEPI\GuessingGame\bin\Debug\net8.0\GuessingGame.exe
+D:\DEPIc#PROJ\DEPI\GuessingGame\bin\Debug\net8.0\GuessingGame.deps.json
+D:\DEPIc#PROJ\DEPI\GuessingGame\bin\Debug\net8.0\GuessingGame.runtimeconfig.json
+D:\DEPIc#PROJ\DEPI\GuessingGame\bin\Debug\net8.0\GuessingGame.dll
+D:\DEPIc#PROJ\DEPI\GuessingGame\bin\Debug\net8.0\GuessingGame.pdb
+D:\DEPIc#PROJ\DEPI\GuessingGame\obj\Debug\net8.0\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPIc#PROJ\DEPI\GuessingGame\obj\Debug\net8.0\GuessingGame.AssemblyInfoInputs.cache
+D:\DEPIc#PROJ\DEPI\GuessingGame\obj\Debug\net8.0\GuessingGame.AssemblyInfo.cs
+D:\DEPIc#PROJ\DEPI\GuessingGame\obj\Debug\net8.0\GuessingGame.csproj.CoreCompileInputs.cache
+D:\DEPIc#PROJ\DEPI\GuessingGame\obj\Debug\net8.0\GuessingGame.dll
+D:\DEPIc#PROJ\DEPI\GuessingGame\obj\Debug\net8.0\refint\GuessingGame.dll
+D:\DEPIc#PROJ\DEPI\GuessingGame\obj\Debug\net8.0\GuessingGame.pdb
+D:\DEPIc#PROJ\DEPI\GuessingGame\obj\Debug\net8.0\GuessingGame.genruntimeconfig.cache
+D:\DEPIc#PROJ\DEPI\GuessingGame\obj\Debug\net8.0\ref\GuessingGame.dll
